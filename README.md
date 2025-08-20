@@ -11,13 +11,14 @@
 
 ---
 
-# Hi, I'm Mostafa Ahmed Mohammed Mohammed Ibrahem Zaazoa
+#  Hi, I'm Mostafa Ahmed  
 
-I am a junior backend developer from Alexandria, Egypt.  
-I work mainly with Node.js, Express.js, Nest.js, and MongoDB to build server-side applications and APIs.  
-I also use Git for version control and Postman for testing APIs.  
-I enjoy designing scalable backend systems and continuously improving my development practices through learning and challenge.  
-My goal is to grow as a backend engineer and contribute to impactful projects.  
+<sub>
+ Junior Backend Developer from Alexandria, Egypt.  
+ Skilled in building APIs and backend systems using **Node.js**, **Express.js**, **Nest.js**, and **MongoDB**.  
+ Experienced with **Git** for version control and **Postman** for API testing.  
+ Always learning and improving to write clean and efficient code.  
+</sub>
 ---
 
 ## 🛠️ Tech Stack
