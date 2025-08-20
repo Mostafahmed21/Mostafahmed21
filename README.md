@@ -1,5 +1,4 @@
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mostafahmed21&color=blueviolet" alt="views"/>
 </p>
