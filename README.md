@@ -18,3 +18,14 @@ My goal is to keep improving my skills and build reliable backend systems that s
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafahmed21&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafahmed21&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=Mostafahmed21&label=Profile%20views&color=0e75b6&style=flat)
