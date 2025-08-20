@@ -1,25 +1,26 @@
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostafahmed21&color=blueviolet" alt="views"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mostafahmed21&show_icons=true&theme=radical" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafahmed21&layout=compact&theme=radical" alt="langs" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mostafahmed21&color=blueviolet" alt="views"/>
-</p>
-
-
 ---
 
 
-# 👋 Hi, I'm Mostafa Ahmed
+# Hi, I'm Mostafa Ahmed  
 
- **Junior Backend Developer**  
- Passionate about building scalable and efficient backend systems.  
- Always learning and improving in Node.js ecosystem.  
+ **Junior Backend Developer** |  Passionate about solving problems with code  
 
+I’m a **backend-focused developer** who enjoys designing and building APIs, handling databases, and creating systems that are clean, scalable, and secure.  
+Currently exploring **Node.js**, **Express.js**, and **MongoDB**, while diving deeper into **system design** and **software architecture** concepts.  
+
+ I believe in **continuous learning** — always improving my coding practices, experimenting with new technologies, and working on projects that make me a better developer.  
+ My main goal is to **grow as a backend engineer** and contribute to impactful projects.  
 ---
 
 ## 🛠️ Tech Stack
